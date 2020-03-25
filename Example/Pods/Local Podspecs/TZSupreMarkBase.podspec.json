@@ -1,0 +1,36 @@
+{
+  "name": "TZSupreMarkBase",
+  "version": "0.1.0",
+  "summary": "工程的基类",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/zjhtz/TZSupreMarkBase",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "772379155@qq.com": "772379155@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/zjhtz/TZSupreMarkBase.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "TZSupreMarkBase/Classes/**/*",
+  "dependencies": {
+    "ReactiveObjC": [
+      "~> 3.0.0"
+    ],
+    "YYKit": [
+
+    ],
+    "CYLTabBarController": [
+      "~>1.28.5"
+    ],
+    "CTMediator": [
+
+    ]
+  }
+}

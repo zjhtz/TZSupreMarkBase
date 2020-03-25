@@ -1,0 +1,6 @@
+framework module Pods_TZSupreMarkBase_Tests {
+  umbrella header "Pods-TZSupreMarkBase_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
